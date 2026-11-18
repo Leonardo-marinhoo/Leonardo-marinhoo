@@ -1,142 +1,76 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:7F00FF&height=220&section=header&text=Leonardo%20Marinho&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=20"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer;Building+scalable+software+systems;Backend+%7C+Cloud+%7C+AI+Agents;Turning+complex+problems+into+software" alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Marinho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-leonardo-marinho)
-[![GitHub](https://img.shields.io/badge/GitHub-Leonardo--Marinhoo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonardo-Marinhoo)
-[![Email](https://img.shields.io/badge/Email-leo.ccodes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.ccodes@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:C65A1B&height=175&section=header&text=Leonardo%20Marinho&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Software%20Engineer&descAlignY=65&descSize=18" alt="Leonardo Marinho" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Leonardo-Marinhoo&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS"/>
+[LinkedIn](https://linkedin.com/in/dev-leonardo-marinho) · [GitHub](https://github.com/Leonardo-Marinhoo) · [Email](mailto:leo.ccodes@gmail.com) · [Ethos IT](https://ethostaubate.com.br)
 
 </div>
 
----
-
-# ⚡ About Me
-
-I'm a **Full Stack Software Engineer** focused on designing and building reliable, scalable and maintainable software solutions.
-
-My experience spans the entire application lifecycle — from **backend services, APIs and system architecture** to **modern web interfaces, infrastructure, deployment and production environments**.
-
-I currently work on projects involving **SaaS platforms, business automation and agentic AI systems**, including solutions capable of interacting directly with applications, executing operations, managing data and integrating with external communication channels.
-
 <br/>
 
-### 🎯 Areas of Expertise
+## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Full Stack Software Engineer with experience developing web applications, backend services, REST APIs and integrations.
 
-#### ⚙️ Backend Engineering
+I work across the software development lifecycle, from database design and application architecture to frontend development, infrastructure and production deployments.
 
-Building APIs, business logic and backend services with:
+My primary stack includes **PHP, Laravel, Node.js, TypeScript, React and Next.js**, alongside PostgreSQL, MySQL, Docker and Linux.
 
-**Laravel • Node.js • Express • REST APIs**
+I also work with AI agents, workflow automation and integrations with external platforms, including Meta's communication APIs.
 
-</td>
-<td width="50%" valign="top">
+Through **[Ethos IT](https://ethostaubate.com.br)**, I develop custom software and technology solutions for businesses.
 
-#### ⚛️ Frontend Engineering
+---
 
-Building modern, responsive web applications with:
+## Engineering
 
-**React • Next.js • Redux Toolkit**
+**Backend Development**  
+RESTful APIs, authentication, authorization, background jobs, queues, database modeling and third-party integrations.
 
-</td>
-</tr>
+**Frontend Development**  
+Responsive web applications, component-based architectures, state management and API integration.
 
-<tr>
-<td width="50%" valign="top">
+**Infrastructure & Deployment**  
+Linux servers, Docker containers, Nginx, CI/CD pipelines, reverse proxies and application deployment.
 
-#### 🏗️ Software Architecture
+**AI & Automation**  
+LLM integrations, AI agents, function calling, external tools and workflow automation.
 
-Experience building and working with:
+**Software Architecture**  
+Application design, modular systems, multi-tenant architectures and service integration.
 
-**SaaS • Multi-tenant Systems • Business Platforms • API Integrations**
+---
 
-</td>
-<td width="50%" valign="top">
+## Tech Stack
 
-#### 🤖 AI & Automation
+| Area | Technologies |
+|------|-------------|
+| **Backend** | PHP, Laravel, Node.js, Express |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Redux Toolkit |
+| **Databases** | PostgreSQL, MySQL, Redis |
+| **Infrastructure** | Docker, Linux, Nginx, AWS |
+| **Development Tools** | Git, GitHub, GitHub Actions, Postman |
+| **Integrations** | REST APIs, WhatsApp API, Meta APIs, AI/LLM APIs |
 
-Engineering systems involving:
+---
 
-**AI Agents • Agentic Workflows • Tool Execution • Business Automation**
+## Current Focus
 
-</td>
-</tr>
+Currently expanding my knowledge and practical experience in **software architecture, distributed systems, infrastructure and AI-powered applications**.
 
-<tr>
-<td width="50%" valign="top">
-
-#### ☁️ Infrastructure
-
-Deploying and operating applications using:
-
-**Docker • Linux • Nginx • Cloud Infrastructure**
-
-</td>
-<td width="50%" valign="top">
-
-#### 💬 Integrations
-
-Building software integrated with external platforms and communication channels:
-
-**WhatsApp • Instagram • Facebook • External APIs**
-
-</td>
-</tr>
-</table>
+I enjoy working on projects that involve technical challenges, system integrations and engineering decisions beyond just writing application code.
 
 <br/>
 
 <div align="center">
 
-### 🚀 Currently Exploring
-
-![Software Architecture](https://img.shields.io/badge/Software_Architecture-7F00FF?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-00AEEF?style=for-the-badge)
-![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-7F00FF?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-00AEEF?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-# 🧰 Tech Arsenal
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" />
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,redux&theme=dark" />
-
-### 🗄️ Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,nginx,aws&theme=dark" />
-
-### 🔧 Engineering Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+<sub>Software Engineering · Architecture · Infrastructure</sub>
 
 <br/><br/>
 
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![SaaS](https://img.shields.io/badge/SaaS-6C63FF?style=for-the-badge&logo=icloud&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_AGENTS-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/AUTOMATION-FF6C37?style=for-the-badge&logo=zapier&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_APIs-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=C65A1B&height=4&section=footer" />
 
 </div>
